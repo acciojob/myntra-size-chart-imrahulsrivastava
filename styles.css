@@ -1,3 +1,7 @@
+body {
+	text-align: right;
+}
+
 table,
 thead,
 tr,
@@ -11,6 +15,10 @@ td {
 
 .color-white {
     color: white;
+}
+
+.align-left {
+	text-align: left;
 }
 
 #bg-red {
